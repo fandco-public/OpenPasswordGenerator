@@ -11,15 +11,17 @@
 
     <StackPanel>
 
-        <TextBlock Margin="30" Text="Sample Password Generator" FontSize="30" HorizontalAlignment="Center" />
-        <TextBlock Margin="50" Text="Set Password Length and Click Generate Button" HorizontalAlignment="Center"  />
+        <TextBlock x:Uid="lblTitle" Margin="30" Text="Sample Password Generator" FontSize="30" HorizontalAlignment="Center" />
+        <TextBlock x:Uid="lblSubTitle"  Text="Sample application to test product 'App Publisher for Microsoft Store'" HorizontalAlignment="Center" />
+        
+        <TextBlock x:Uid="lblPwdMessage" Margin="50" Text="Set Password Length and Click Generate Button" HorizontalAlignment="Center"  />
         <StackPanel Orientation="Horizontal">
             <Slider x:Name="currentSlider" Margin="30" Value="5" Minimum="5" Maximum="20" Width="600" ValueChanged="currentSlider_ValueChanged"/>
             <TextBlock x:Name="lblSliderValue" Text="5" VerticalAlignment="Center"/>
         </StackPanel>
         <RelativePanel VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="140,40,140,40"   >
-            <Button x:Name="btnCopy" Height="100" Width="200"  Content="Copy To Clipboard" HorizontalAlignment="Left" RelativePanel.AlignLeftWithPanel="True" Click="btnCopy_Click" />
-            <Button x:Name="btnGenerate"   Height="100" Width="200" Content="Generate New"  HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Click="btnGenerate_Click" />
+            <Button x:Uid="btnCopy" x:Name="btnCopy" Height="100" Width="200"  Content="Copy To Clipboard" HorizontalAlignment="Left" RelativePanel.AlignLeftWithPanel="True" Click="btnCopy_Click" />
+            <Button x:Uid="btnGenerate" x:Name="btnGenerate"   Height="100" Width="200" Content="Generate New"  HorizontalAlignment="Right" RelativePanel.AlignRightWithPanel="True" Click="btnGenerate_Click" />
         </RelativePanel>
 
         <TextBlock x:Name="lblNewPassword" Text="" FontSize="30" Margin="50" HorizontalAlignment="Center"/>
