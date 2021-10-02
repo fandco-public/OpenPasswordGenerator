@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="btnCopy.Content" xml:space="preserve">
+    <value>نسخ إلى الحافظة</value>
+  </data>
+  <data name="btnGenerate.Content" xml:space="preserve">
+    <value>إنشاء جديد</value>
+  </data>
+  <data name="lblPwdMessage.Text" xml:space="preserve">
+    <value>تعيين طول كلمة المرور وانقر فوق إنشاء زر</value>
+  </data>
+  <data name="lblSubTitle.Text" xml:space="preserve">
+    <value>نموذج التطبيق لاختبار المنتج 'ناشر التطبيقات لمتجر Microsoft'</value>
+  </data>
+  <data name="lblTitle.Text" xml:space="preserve">
+    <value>نموذج مولد كلمة المرور</value>
+  </data>
+</root>
