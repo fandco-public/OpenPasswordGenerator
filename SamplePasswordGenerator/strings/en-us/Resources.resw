@@ -127,9 +127,9 @@
     <value>Set Password Length and Click Generate Button</value>
   </data>
   <data name="lblSubTitle.Text" xml:space="preserve">
-    <value>Sample application to test product 'App Publisher for Microsoft Store'</value>
+    <value>This sample application to test product 'App Publisher for Microsoft Store'</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>Sample Password Generator</value>
+    <value>Open Password Generator</value>
   </data>
 </root>
