@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0998546"
+     inkscape:cx="230.48501"
+     inkscape:cy="561.43785"
+     inkscape:window-width="3840"
+     inkscape:window-height="2097"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="LockImage"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="mix-blend-mode:screen">
+    <ellipse
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path403"
+       cx="-125.81397"
+       cy="140.96938"
+       rx="4.3301177"
+       ry="0.48112419" />
+    <g
+       id="g594"
+       transform="translate(0,3.7041668)">
+      <rect
+         style="fill:#916f6f;fill-rule:evenodd;stroke-width:0.264583"
+         id="rect99"
+         width="104.40395"
+         height="60.862213"
+         x="54.703335"
+         y="170.69505" />
+      <rect
+         style="fill:#ac9d93;stroke-width:0.264583"
+         id="rect257"
+         width="66.635704"
+         height="78.663803"
+         x="74.093124"
+         y="92.375847" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.264583"
+         id="path399"
+         cx="99.35215"
+         cy="81.911392"
+         rx="25.259022"
+         ry="10.464451" />
+      <ellipse
+         style="fill:#ac9d93;stroke-width:0.213048"
+         id="path401"
+         cx="107.29069"
+         cy="91.268784"
+         rx="33.438129"
+         ry="43.54174" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:0.144614"
+         id="path401-0"
+         cx="107.29036"
+         cy="85.327301"
+         rx="24.898176"
+         ry="26.942957" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.264757"
+         id="rect259"
+         width="50.033775"
+         height="85.122902"
+         x="82.275368"
+         y="85.195068" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Name Layer">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.943px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.948574"
+       x="59.274582"
+       y="204.47449"
+       id="text1677"
+       transform="scale(0.93730973,1.0668832)"
+       inkscape:export-filename="C:\Workspace\OpenPasswordGenerator\Assets-OPM\OPM_Logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan1675"
+         style="stroke-width:0.948574"
+         x="59.274582"
+         y="204.47449">O P M</tspan></text>
+  </g>
+</svg>
