@@ -14,8 +14,8 @@
   <mp:PhoneIdentity PhoneProductId="b9d29635-d8f0-41d3-b6fe-5ad1caeeda83" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>OpenPasswordGenerator</DisplayName>
-    <PublisherDisplayName>Jignesh</PublisherDisplayName>
+    <DisplayName>Open Password Generator</DisplayName>
+    <PublisherDisplayName>Freytag &amp; Company, LLC</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
