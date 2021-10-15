@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="OPM_Logo.svg"
-   inkscape:export-filename="C:\Workspace\OpenPasswordGenerator\Assets-OPM\OPM_Logo.png"
+   sodipodi:docname="OPG_Logo.svg"
+   inkscape:export-filename="C:\Workspace\OpenPasswordGenerator\Assets-OPM\OPG_Logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,14 +27,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0998546"
-     inkscape:cx="230.48501"
+     inkscape:cx="10.001322"
      inkscape:cy="561.43785"
      inkscape:window-width="3840"
      inkscape:window-height="2097"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2" />
   <g
@@ -110,6 +110,6 @@
          id="tspan1675"
          style="stroke-width:0.948574"
          x="59.274582"
-         y="204.47449">O P M</tspan></text>
+         y="204.47449">O P G</tspan></text>
   </g>
 </svg>
