@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lblPwdMessage.Text" xml:space="preserve">
+    <value>पासवर्ड की लंबाई सेट करें और जेनरेट बटन पर क्लिक करें</value>
+  </data>
+  <data name="btnCopy.Content" xml:space="preserve">
+    <value>क्लिपबोर्ड को कॉपी करें</value>
+  </data>
+  <data name="btnGenerate.Content" xml:space="preserve">
+    <value>नया जेनरेट करें</value>
+  </data>
+  <data name="lblTitle.Text" xml:space="preserve">
+    <value>नमूना पासवर्ड जेनरेटर</value>
+  </data>
+  <data name="lblSubTitle.Text" xml:space="preserve">
+    <value>उत्पाद 'माइक्रोसॉफ्ट स्टोर के लिए ऐप प्रकाशक' का परीक्षण करने के लिए नमूना आवेदन</value>
+  </data>
+</root>
