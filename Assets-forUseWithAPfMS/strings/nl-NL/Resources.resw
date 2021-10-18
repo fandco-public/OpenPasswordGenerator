@@ -13,42 +13,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCopy.Content" xml:space="preserve">
-    <value>क्लिपबोर्ड को कॉपी करें</value>
+    <value>Naar Klembord kopiëren</value>
   </data>
   <data name="btnGenerate.Content" xml:space="preserve">
-    <value>नया जेनरेट करें</value>
+    <value>Genereer nieuw</value>
   </data>
   <data name="lblPwdMessage.Text" xml:space="preserve">
-    <value>पासवर्ड की लंबाई सेट करें और जेनरेट बटन पर क्लिक करें</value>
+    <value>Wachtwoordlengte instellen en klik op de knop Genereren</value>
   </data>
   <data name="lblSubTitle.Text" xml:space="preserve">
-    <value>उत्पाद 'माइक्रोसॉफ्ट स्टोर के लिए ऐप प्रकाशक' का परीक्षण करने के लिए यह नमूना आवेदन</value>
+    <value>Deze voorbeeldtoepassing om product 'App Publisher voor Microsoft Store' te testen</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>पासवर्ड जेनरेटर खोलें</value>
+    <value>Wachtwoordgenerator openen</value>
   </data>
   <data name="Publish_AdditionalLicenseTerms" xml:space="preserve">
-    <value>एमआईटी लाइसेंस (एमआईटी)
+    <value>De MIT-licentie (MIT)
 
-कॉपीराइट © 2021 फ्रेटैग एंड कंपनी, एलएलसी
+Copyright © 2021 Freytag &amp; Company, LLC
 
-अनुमति इसके द्वारा प्रदान की जाती है, इस सॉफ्टवेयर और संबद्ध प्रलेखन फ़ाइलों ("सॉफ्टवेयर") की एक प्रति प्राप्त करने के लिए, प्रतिबंध के बिना सॉफ्टवेयर में सौदा करने के लिए, सीमा के बिना उपयोग करने के अधिकार सहित, प्रतिलिपि, संशोधित, विलय, प्रकाशन, वितरित, सबलेंस, और/या सॉफ्टवेयर की प्रतियां बेचने के लिए, और व्यक्तियों को जिनके लिए सॉफ्टवेयर ऐसा करने के लिए सुसज्जित है की अनुमति है,  निम्नलिखित शर्तों के अधीन:
+Hierbij wordt kosteloos toestemming verleend aan elke persoon die een kopie van deze software en bijbehorende documentatiebestanden (de "Software") verkrijgt, om zonder beperking in de Software te handelen, met inbegrip van maar niet beperkt tot het recht om kopieën van de Software te gebruiken, te kopiëren, te wijzigen, samen te voegen, te publiceren, te distribueren, in sublicentie te geven en/of te verkopen, en om personen aan wie de Software wordt geleverd toe te staan dit te doen,  onder de volgende voorwaarden:
 
-उपरोक्त कॉपीराइट नोटिस और यह अनुमति नोटिस सभी प्रतियों या सॉफ्टवेयर के पर्याप्त भागों में शामिल किया जाएगा।
+De bovenstaande auteursrechtvermelding en deze toestemmingsverklaring worden opgenomen in alle kopieën of substantiële delen van de Software.
 
-सॉफ्टवेयर प्रदान किया जाता है "के रूप में है", किसी भी तरह की वारंटी के बिना, एक्सप्रेस या निहित, सहित, लेकिन व्यापारी की वारंटी तक ही सीमित नहीं है, एक विशेष उद्देश्य के लिए फिटनेस और NONINFRINGEMENT । किसी भी स्थिति में लेखक या कॉपीराइट धारक किसी भी दावे, क्षति या अन्य देयता के लिए उत्तरदायी नहीं होंगे, चाहे अनुबंध, टोरंट या अन्यथा की कार्रवाई में, सॉफ्टवेयर से बाहर या सॉफ्टवेयर में उपयोग या अन्य सौदों के संबंध में उत्पन्न हो।</value>
+DE SOFTWARE WORDT GELEVERD "ZOALS DEZE IS", ZONDER ENIGE VORM VAN GARANTIE, EXPLICIET OF IMPLICIET, INCLUSIEF MAAR NIET BEPERKT TOT DE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN NIET-INBREUKMAKENDHEID. IN GEEN GEVAL ZIJN DE AUTEURS OF HOUDERS VAN AUTEURSRECHTEN AANSPRAKELIJK VOOR ENIGE CLAIM, SCHADE OF ANDERE AANSPRAKELIJKHEID, HETZIJ IN EEN HANDELING VAN CONTRACT, ONRECHTMATIGE DAAD OF ANDERSZINS, VOORTVLOEIEND UIT, UIT OF IN VERBAND MET DE SOFTWARE OF HET GEBRUIK OF ANDERE TRANSACTIES IN DE SOFTWARE.</value>
   </data>
   <data name="Publish_CopyrightTrademarkInformation" xml:space="preserve">
-    <value>कॉपीराइट 2021 फ्रेटैग एंड कंपनी, एलएलसी</value>
+    <value>Copyright 2021 Freytag &amp; Bedrijf, LLC</value>
   </data>
   <data name="Publish_Description" xml:space="preserve">
-    <value>यह नमूना पासवर्ड जनरेटर का उद्देश्य उत्पाद 'माइक्रोसॉफ्ट स्टोर के लिए ऐप प्रकाशक' का परीक्षण करना है।  5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।  एमआईटी लाइसेंस के तहत उपलब्ध है।</value>
+    <value>Deze voorbeeld wachtwoordgenerator is bedoeld om het product 'App Publisher for Microsoft Store' te testen.  Genereert een wachtwoordlengte van meer dan 5.  Beschikbaar onder de MIT-licentie.</value>
   </data>
   <data name="Publish_DevStudio" xml:space="preserve">
-    <value>फ्रेटैग एंड कंपनी, एलएलसी</value>
+    <value>Freytag &amp; Bedrijf, LLC</value>
   </data>
   <data name="Publish_Feature1" xml:space="preserve">
-    <value>5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।</value>
+    <value>Genereert een wachtwoordlengte van meer dan 5.</value>
   </data>
   <data name="Publish_Feature10" xml:space="preserve">
     <value></value>
@@ -180,16 +180,16 @@
     <value></value>
   </data>
   <data name="Publish_SearchTerm1" xml:space="preserve">
-    <value>पासवर्ड यादृच्छिक खुला स्रोत उत्पन्न करता है</value>
+    <value>wachtwoord genereren willekeurige open source</value>
   </data>
   <data name="Publish_SearchTerm2" xml:space="preserve">
-    <value>पैदा करना </value>
+    <value>genereren </value>
   </data>
   <data name="Publish_SearchTerm3" xml:space="preserve">
-    <value>रैंडम</value>
+    <value>willekeurig</value>
   </data>
   <data name="Publish_SearchTerm4" xml:space="preserve">
-    <value>पासवर्ड</value>
+    <value>wachtwoord</value>
   </data>
   <data name="Publish_SearchTerm5" xml:space="preserve">
     <value></value>
@@ -201,13 +201,13 @@
     <value></value>
   </data>
   <data name="Publish_ShortDescription" xml:space="preserve">
-    <value>5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।  एमआईटी लाइसेंस के तहत उपलब्ध है।</value>
+    <value>Genereert een wachtwoordlengte van meer dan 5.  Beschikbaar onder de MIT-licentie.</value>
   </data>
   <data name="Publish_ShortTitle" xml:space="preserve">
-    <value>पासवर्ड खोलें</value>
+    <value>Wachtwoorden openen</value>
   </data>
   <data name="Publish_SortTitle" xml:space="preserve">
-    <value>पासवर्ड जेनरेटर (ओपन सोर्स)</value>
+    <value>Wachtwoordgenerator (Open Source)</value>
   </data>
   <data name="Publish_SupportContactInfo" xml:space="preserve">
     <value>team@freytag.us</value>

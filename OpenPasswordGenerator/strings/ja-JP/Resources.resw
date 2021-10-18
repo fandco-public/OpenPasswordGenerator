@@ -13,42 +13,42 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="btnCopy.Content" xml:space="preserve">
-    <value>क्लिपबोर्ड को कॉपी करें</value>
+    <value>クリップボードにコピー</value>
   </data>
   <data name="btnGenerate.Content" xml:space="preserve">
-    <value>नया जेनरेट करें</value>
+    <value>新規の生成</value>
   </data>
   <data name="lblPwdMessage.Text" xml:space="preserve">
-    <value>पासवर्ड की लंबाई सेट करें और जेनरेट बटन पर क्लिक करें</value>
+    <value>パスワードの長さを設定し、クリックして生成ボタン</value>
   </data>
   <data name="lblSubTitle.Text" xml:space="preserve">
-    <value>उत्पाद 'माइक्रोसॉफ्ट स्टोर के लिए ऐप प्रकाशक' का परीक्षण करने के लिए यह नमूना आवेदन</value>
+    <value>このサンプル アプリケーションは、製品 'Microsoft ストアのアプリの発行元' をテストします。</value>
   </data>
   <data name="lblTitle.Text" xml:space="preserve">
-    <value>पासवर्ड जेनरेटर खोलें</value>
+    <value>オープンパスワードジェネレータ</value>
   </data>
   <data name="Publish_AdditionalLicenseTerms" xml:space="preserve">
-    <value>एमआईटी लाइसेंस (एमआईटी)
+    <value>MIT ライセンス (MIT)
 
-कॉपीराइट © 2021 फ्रेटैग एंड कंपनी, एलएलसी
+著作権 © 2021 フレイタグ&amp;カンパニー,LLC
 
-अनुमति इसके द्वारा प्रदान की जाती है, इस सॉफ्टवेयर और संबद्ध प्रलेखन फ़ाइलों ("सॉफ्टवेयर") की एक प्रति प्राप्त करने के लिए, प्रतिबंध के बिना सॉफ्टवेयर में सौदा करने के लिए, सीमा के बिना उपयोग करने के अधिकार सहित, प्रतिलिपि, संशोधित, विलय, प्रकाशन, वितरित, सबलेंस, और/या सॉफ्टवेयर की प्रतियां बेचने के लिए, और व्यक्तियों को जिनके लिए सॉफ्टवेयर ऐसा करने के लिए सुसज्जित है की अनुमति है,  निम्नलिखित शर्तों के अधीन:
+本ソフトウェアおよび関連ドキュメントファイル(以下「ソフトウェア」)のコピーを入手した者に対して、本ソフトウェアの使用、コピー、修正、マージ、公開、配布、サブライセンス、および/またはソフトウェアのコピーの販売を許可する権利を含む制限なく、本ソフトウェアを自由に処理する許可が付与されます。 以下の条件に従います。
 
-उपरोक्त कॉपीराइट नोटिस और यह अनुमति नोटिस सभी प्रतियों या सॉफ्टवेयर के पर्याप्त भागों में शामिल किया जाएगा।
+上記の著作権表示および本許可の通知は、本ソフトウェアの全てのコピーまたは実質的な部分に含まれるものとします。
 
-सॉफ्टवेयर प्रदान किया जाता है "के रूप में है", किसी भी तरह की वारंटी के बिना, एक्सप्रेस या निहित, सहित, लेकिन व्यापारी की वारंटी तक ही सीमित नहीं है, एक विशेष उद्देश्य के लिए फिटनेस और NONINFRINGEMENT । किसी भी स्थिति में लेखक या कॉपीराइट धारक किसी भी दावे, क्षति या अन्य देयता के लिए उत्तरदायी नहीं होंगे, चाहे अनुबंध, टोरंट या अन्यथा की कार्रवाई में, सॉफ्टवेयर से बाहर या सॉफ्टवेयर में उपयोग या अन्य सौदों के संबंध में उत्पन्न हो।</value>
+本ソフトウェアは、商品性、特定目的への適合性、および侵害されない保証を含むがこれらに限定されない、いかなる種類の保証もなく、「このまま」提供されます。いかなる場合も、本ソフトウェアまたはソフトウェアの使用またはその他の取引に起因する、契約、不法行為、またはその他の行為において、いかなる請求、損害賠償、その他の責任について、著者または著作権者は責任を負わないものとします。</value>
   </data>
   <data name="Publish_CopyrightTrademarkInformation" xml:space="preserve">
-    <value>कॉपीराइट 2021 फ्रेटैग एंड कंपनी, एलएलसी</value>
+    <value>著作権 2021 フレイタグ&amp;カンパニー, LLC</value>
   </data>
   <data name="Publish_Description" xml:space="preserve">
-    <value>यह नमूना पासवर्ड जनरेटर का उद्देश्य उत्पाद 'माइक्रोसॉफ्ट स्टोर के लिए ऐप प्रकाशक' का परीक्षण करना है।  5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।  एमआईटी लाइसेंस के तहत उपलब्ध है।</value>
+    <value>このサンプルのパスワード ジェネレーターは、製品のテストを意図して、'Microsoft ストアのアプリの発行元' です。 長さが 5 より大きい任意の長さのパスワードを生成します。 MIT ライセンスの下で使用できます。</value>
   </data>
   <data name="Publish_DevStudio" xml:space="preserve">
-    <value>फ्रेटैग एंड कंपनी, एलएलसी</value>
+    <value>フライタグ・アンド・カンパニー</value>
   </data>
   <data name="Publish_Feature1" xml:space="preserve">
-    <value>5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।</value>
+    <value>長さが 5 より大きい任意の長さのパスワードを生成します。</value>
   </data>
   <data name="Publish_Feature10" xml:space="preserve">
     <value></value>
@@ -180,16 +180,16 @@
     <value></value>
   </data>
   <data name="Publish_SearchTerm1" xml:space="preserve">
-    <value>पासवर्ड यादृच्छिक खुला स्रोत उत्पन्न करता है</value>
+    <value>パスワードはランダムなオープンソースを生成する</value>
   </data>
   <data name="Publish_SearchTerm2" xml:space="preserve">
-    <value>पैदा करना </value>
+    <value>生成する</value>
   </data>
   <data name="Publish_SearchTerm3" xml:space="preserve">
-    <value>रैंडम</value>
+    <value>ランダム</value>
   </data>
   <data name="Publish_SearchTerm4" xml:space="preserve">
-    <value>पासवर्ड</value>
+    <value>パスワード</value>
   </data>
   <data name="Publish_SearchTerm5" xml:space="preserve">
     <value></value>
@@ -201,13 +201,13 @@
     <value></value>
   </data>
   <data name="Publish_ShortDescription" xml:space="preserve">
-    <value>5 से अधिक लंबाई का कोई भी लंबाई पासवर्ड उत्पन्न करता है।  एमआईटी लाइसेंस के तहत उपलब्ध है।</value>
+    <value>長さが 5 より大きい任意の長さのパスワードを生成します。 MIT ライセンスの下で使用できます。</value>
   </data>
   <data name="Publish_ShortTitle" xml:space="preserve">
-    <value>पासवर्ड खोलें</value>
+    <value>オープンパスワード</value>
   </data>
   <data name="Publish_SortTitle" xml:space="preserve">
-    <value>पासवर्ड जेनरेटर (ओपन सोर्स)</value>
+    <value>パスワードジェネレータ(オープンソース)</value>
   </data>
   <data name="Publish_SupportContactInfo" xml:space="preserve">
     <value>team@freytag.us</value>
