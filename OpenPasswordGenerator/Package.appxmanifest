@@ -7,15 +7,15 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="FreytagCompanyLLC.OpenPasswordGenerator"
-    Publisher="CN=EDA06C2C-F764-4AD4-ADA4-8325C1B46E1F"
+    Name="b9d29635-d8f0-41d3-b6fe-5ad1caeeda83"
+    Publisher="CN=Jignesh"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="a68bbeff-dd0d-4fa0-9ea5-9a3f64321a61" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="b9d29635-d8f0-41d3-b6fe-5ad1caeeda83" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>OpenPasswordGenerator</DisplayName>
-    <PublisherDisplayName>Freytag and Company LLC</PublisherDisplayName>
+    <DisplayName>Open Password Generator</DisplayName>
+    <PublisherDisplayName>Freytag &amp; Company, LLC</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 
@@ -37,7 +37,7 @@
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="Open Password Generator"
         BackgroundColor="transparent">
-        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
+        <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square71x71Logo="Assets\SmallTile.png" Square310x310Logo="Assets\LargeTile.png"/>
         <uap:SplashScreen Image="Assets\SplashScreen.png" />
       </uap:VisualElements>
     </Application>
