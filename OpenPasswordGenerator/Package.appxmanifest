@@ -9,7 +9,7 @@
   <Identity
     Name="FreytagCompanyLLC.OpenPasswordGenerator"
     Publisher="CN=EDA06C2C-F764-4AD4-ADA4-8325C1B46E1F"
-    Version="0.0.1.0" />
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="22f8a666-9192-457b-9207-60c808fdab88" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
